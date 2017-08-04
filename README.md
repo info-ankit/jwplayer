@@ -1,2 +1,3 @@
-# jwplayer
-Custom video player - jwplayer
+## ng2-jwplayer
+
+*Coming Soon...*
